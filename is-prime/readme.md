@@ -1,0 +1,1 @@
+A program that checks if a number is prime
